@@ -1,0 +1,12 @@
+{
+    "editor.quickSuggestions": {
+        "other": true,
+        "comments": true,
+        "strings": true
+    },
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll": "explicit"
+    },
+    "dart.flutterSdkPath": "C:\\Flutter\\flutter_windows_3.19.0-stable"
+}
